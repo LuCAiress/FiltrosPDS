@@ -18,6 +18,7 @@ Necessidades
 Requisitos e instalação do ambiente
 ------
 Instalar bibliotecas para executar as simulações:
+
 `pip install matplotlib numpy scipy jupyter`
 
 Resultados
